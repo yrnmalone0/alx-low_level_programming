@@ -3,4 +3,4 @@ This is a C Programming project under ALX Software Engineering program. The C pr
 
 ### Files:
 
-- `[0-preprocessor](0x00-hello_world/0-preprocessor)` - A Bash script that runs a C file saved in the variable `$CFILE` through the preprocessor and saves the result in the file `c`.
+- `[0-preprocessor](0-preprocessor)` - A Bash script that runs a C file saved in the variable `$CFILE` through the preprocessor and saves the result in the file `c`.
