@@ -10,3 +10,5 @@ This project simply covers `Variables`, `if`, `else`, `while` conditions in C Pr
 **2-print_alphabet.c** - Prints the alphabet in lowercase, followed by a new line. A `putchar` function was implemented in the program.
 
 **3-print_alphabets.c** - Prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+
+**4-print_alphabt.c** - Prints the alphabet in lowercase except `q` and `e`, followed by a new line.
