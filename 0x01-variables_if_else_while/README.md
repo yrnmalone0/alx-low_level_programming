@@ -14,3 +14,6 @@ This project simply covers `Variables`, `if`, `else`, `while` conditions in C Pr
 **4-print_alphabt.c** - Prints the alphabet in lowercase except `q` and `e`, followed by a new line.
 
 **5-print_numbers.c** - Prints all single digit numbers of base 10 starting from `0`, followed by a new line.
+
+**6-print_numberz.c** - Prints all single digit numbers of base 10 starting from 0, followed by a new line and contains `putchar` function.
+
