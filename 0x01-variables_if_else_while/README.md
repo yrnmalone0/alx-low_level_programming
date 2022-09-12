@@ -26,3 +26,5 @@ This project simply covers `Variables`, `if`, `else`, `while` conditions in C Pr
 **100-print_comb3.c** - Prints all possible different combinations of two digits, separated by `,` followed by a space. Numbers are printed in ascending order with two digits.
 
 **101-print_comb4.c** - Prints all possible different combinations of three digits, separated by `,` and followed by a space.
+
+**102-print_comb5.c** - Prints all possible combinations of two two-digit numbers.
