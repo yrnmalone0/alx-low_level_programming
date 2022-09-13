@@ -19,4 +19,6 @@ This project covers `nested loops`, `C - Functions` and `C - Headers`.
 
 **7-print_last_digit.c** - The function prints the last digit of a number.
 
+**8-24_hours.c** - The function prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+
 
