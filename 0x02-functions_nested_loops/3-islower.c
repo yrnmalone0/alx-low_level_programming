@@ -2,6 +2,7 @@
 
 /**
  * _islower - checks for lowercase character
+ * c - value
  * Return: num
  */
 int _islower(int c)
