@@ -12,17 +12,17 @@ void jack_bauer(void)
 	char l = '0';
 	char num = '9';
 
-	while (a <= '2')
+	while (i <= '2')
 	{
-		if (a == '2')
+		if (i == '2')
 		{
 			num = '3';
 		}
-		while (b <= num)
+		while (j <= num)
 		{
-			while (c <= '5')
+			while (k <= '5')
 			{
-				while (d <= '9')
+				while (l <= '9')
 				{
 					_putchar(i);
 					_putchar(j);
