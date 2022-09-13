@@ -1,4 +1,4 @@
-#include "main.h"
+#include "unistd.h"
 
 /**
  * main - entry point
@@ -6,7 +6,6 @@
  */
 int main(void)
 {
-	putchar(c);
-	putchar('\n');
+	write(1, "_putchar\n", 9);
 	return (0);
 }
