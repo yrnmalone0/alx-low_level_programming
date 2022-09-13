@@ -11,3 +11,5 @@ This project covers `nested loops`, `C - Functions` and `C - Headers`.
 
 **3-islower.c** - This program checks for lowercase character.
 
+**4-isalpha.c** - This program checks for alphabetic character.
+
