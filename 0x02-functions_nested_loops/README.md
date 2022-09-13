@@ -13,3 +13,5 @@ This project covers `nested loops`, `C - Functions` and `C - Headers`.
 
 **4-isalpha.c** - This program checks for alphabetic character.
 
+**5-sign.c** - This program prints the sign of a number.
+
