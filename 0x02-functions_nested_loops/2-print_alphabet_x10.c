@@ -16,7 +16,7 @@ void print_alphabet_x10(void)
 			write(1, &lwcase, 1);
 			lwcase++;
 		}
-		write(1, "\i", 1);
+		write(1, "\n", 1);
 		i++;
 		lwcase = 'a'
 	}
