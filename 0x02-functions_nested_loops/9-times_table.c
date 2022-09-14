@@ -5,7 +5,7 @@
  * @num: value
  * Return: num
  */
-void times_tables(void)
+void times_table(void)
 {
 	int n = 0;
 	int num;
