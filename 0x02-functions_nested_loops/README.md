@@ -25,4 +25,6 @@ This project covers `nested loops`, `C - Functions` and `C - Headers`.
 
 **10-add.c** - This function adds two integers and returns the result.
 
+**11-print_to_98.c** - This function  prints all natural numbers from n to 98, followed by a new line.
+
 
