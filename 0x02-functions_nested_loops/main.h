@@ -28,3 +28,6 @@ int print_last_digit(int);
 
 /*prints every minutes of the day of Jack Bauer*/
 void jack_bauer(void);
+
+/*prints the 9 times table that start with 0*/
+void times_table(void);
