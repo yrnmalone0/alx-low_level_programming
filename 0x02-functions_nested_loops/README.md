@@ -23,4 +23,6 @@ This project covers `nested loops`, `C - Functions` and `C - Headers`.
 
 **9-times_table.c** - The function that prints the 9 times table, starting with 0.
 
+**10-add.c** - This function adds two integers and returns the result.
+
 
