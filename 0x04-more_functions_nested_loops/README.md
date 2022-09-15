@@ -8,4 +8,6 @@ This project covers `C - Functions`, `Nested loops`, and `C - Headers`.
 
 **1-isdigit.c** - This function checks for a digit (`0` through `9`). It Returns `1` if `c` is a digit and Returns `0` otherwise.
 
-**2-mul.c** - The function multiplies two integers and it returns the product of (`a` and `b`). 
+**2-mul.c** - The function multiplies two integers and it returns the product of (`a` and `b`).
+
+**3-print_numbers.c** - Prints the numbers from `0` to `9`, followed by a new line. 
