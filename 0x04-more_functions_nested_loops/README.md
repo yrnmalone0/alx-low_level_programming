@@ -25,3 +25,5 @@ This project covers `C - Functions`, `Nested loops`, and `C - Headers`.
 **9-fizz_buzz.c** - Prints the numbers from 1 to 100, followed by a new line. But for multiples of three it prints Fizz instead of the number and for the multiples of five it prints Buzz. For numbers which are multiples of both three and five it prints FizzBuzz.
 
 **10-print_triangle.c** - Prints a triangle, followed by a new line.
+
+**100-prime_factor.c** - The program finds and prints the largest prime factor of the number 612852475143, followed by a new line.
