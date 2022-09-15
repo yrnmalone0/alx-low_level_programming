@@ -27,3 +27,5 @@ This project covers `C - Functions`, `Nested loops`, and `C - Headers`.
 **10-print_triangle.c** - Prints a triangle, followed by a new line.
 
 **100-prime_factor.c** - The program finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+
+**101-print_number.c** - The function prints an integer.
