@@ -16,4 +16,6 @@ This project covers `C - Functions`, `Nested loops`, and `C - Headers`.
 
 **5-more_numbers.c** - The function prints 10 times the numbers from `0` to `14` followed by a new line.
 
-** 6-print_line.c** - The function draws a straight line in the terminal. 
+** 6-print_line.c** - The function draws a straight line in the terminal.
+
+**7-print_diagonal.c** - The function draws a diagonal line on the terminal. 
